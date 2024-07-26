@@ -1,0 +1,91 @@
+<html>
+<head>
+<style>
+body {
+  background-image: url('https://wallpapers.com/images/featured/5q6xbfxwtbme5kaj.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+</head>
+  <body>
+<body style="background-color:white;">
+<center>
+<h1><b>LiteralTrash</b></h1>
+<h2><i>Create Account</i></h2>
+<i>
+<hr>
+    <form action="file:///D:/WT%20mini%20project/demo.html" id="form">
+      First name: <input type="text" id="firstName"><br><br>
+      Last name: <input type="text" id="lastName"><br><br>
+     Password: <input type="password" id="password"><br><br>
+      Email:   <input type="text" id="email"><br><br>
+      Mobile number:<input type="text" id="mobileNumber"><br><br>
+      <input type="button" value="Submit" onclick="validate()"><br>
+    </form>
+</center>
+  </body>
+  <script>
+    function validate() {
+      var form = document.getElementById("form");
+      var firstName = document.getElementById("firstName");
+      var lastName = document.getElementById("lastName");
+      var email = document.getElementById("email");
+      var password = document.getElementById("password");
+      var mobileNumber = document.getElementById("mobileNumber");
+      var address = document.getElementById("address");
+      if (firstName.value.length == 0) {
+        alert("First name is required");
+        return;
+      }
+ if (firstName.value.length < 6) {
+        alert("First Name must be at least 6 digits long");
+        return;
+      }
+      if (password.value.length == 0) {
+        alert("Password is required");
+        return;
+      }
+      if (password.value.length < 6) {
+        alert("Password should be at least 6 digits long");
+        return;
+      }
+
+      if (email.value.length == 0) {
+        alert("Email is required");
+        return;
+      }
+      if (!email.value.includes("@")) {
+        alert("Enter valid Email");
+        return;
+      }
+
+      if (mobileNumber.value.length == 0) {
+        alert("Mobile number is required");
+        return;
+      }
+      if (isNaN(mobileNumber.value)) {
+        alert("Mobile number must be a number");
+        return;
+      }
+ if (mobileNumber.value.length > 10) {
+        alert("Mobile Number should be 10 digits long");
+        return;
+      }
+if (mobileNumber.value.length < 10) {
+        alert("Mobile Number should be 10 digits long");
+        return;
+      }
+      if (lastName.value.length == 0) {
+        alert("Last name is required");
+        return;
+      }
+      form.submit();
+      {
+       alert("Thank you for joining us!!!!");
+     return;
+    }
+}
+  </script>
+</html>
