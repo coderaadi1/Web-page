@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<style>
+body {
+background-image: linear-gradient(lavender,lightblue,lightpink);}
+table, th, td {
+  border:0.5px  ;
+}
+</style>
+<body>
+<center>
+<h2><i>BEST SELLER FOR 2022</i></h2>
+</center>
+<center>
+<p>Click on the links to purchase the books.</p>
+</center>
+<center>
+<table style="width:60%">
+  <tr>
+    <th></th>
+    <th></th>
+    
+  </tr>
+  <tr>
+    <td> <p> <b> #1 </b> </p>
+   <img src="https://m.media-amazon.com/images/I/81s0B6NYXML.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+  <br>
+   <p>Colleen Hoover</p>
+   <p><a href="https://www.amazon.com/Ends-Us-Novel-Colleen-Hoover/dp/1501110365/ref=zg_bsar_books_sccl_1/132-5755952-1415038?psc=1">It ends with us</a></p>
+ </td>
+    <td><p> <b> #2 </b> </p>
+      <img src="https://m.media-amazon.com/images/I/51W-r3VQlAL._SX320_BO1,204,203,200_.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+       <br>
+     <p>Colleen Hoover</p>
+     <p><a href="https://www.amazon.com/Starts-Us-Novel-Ends/dp/1668001225/ref=zg_bsar_books_sccl_2/132-5755952-1415038?psc=1">It starts with us</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td> <b> #3 </b> </p>
+       <img src="https://m.media-amazon.com/images/I/71jte84ADvL.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+      <br>
+     <p>Colleen Hoover</p>
+      <p><a href="https://www.amazon.com/Verity-Colleen-Hoover/dp/1538724731/ref=zg_bsar_books_sccl_3/132-5755952-1415038?psc=1s">Verity</a></p>
+     </td>
+    <td><b> #4 </b> </p>
+   <img src="https://m.media-amazon.com/images/I/51r8SP2nEaS._SX316_BO1,204,203,200_.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+      <br>
+     <p>Delia Owens</p>
+      <p><a href="https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219109/ref=zg_bsar_books_sccl_4/132-5755952-1415038?psc=1">Where the Crawdads Sing</a></p>
+</td>
+</tr>
+<tr>
+<td><b> #5 </b> </p>
+   <img src="https://m.media-amazon.com/images/I/91bYsX41DVL.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+      <br>
+     <p>James Clear</p>
+      <p><a href="https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=zg_bsar_books_sccl_5/132-5755952-1415038?psc=1">Atomic Habits</a></p>
+</td>
+<td><b> #6 </b> </p>
+   <img src="https://m.media-amazon.com/images/I/617uZq23IPL.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+      <br>
+     <p>Colleen Hoover</p>
+      <p><a href="https://www.amazon.com/Reminders-Him-Novel-Colleen-Hoover/dp/1542025605/ref=zg_bsar_books_sccl_6/132-5755952-1415038?psc=1">Reminders of him</a></p>
+</td>
+</tr>
+<tr>
+<td><b> #7 </b> </p>
+   <img src="https://m.media-amazon.com/images/I/71E8VNPC1dL.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+      <br>
+     <p>Colleen Hoover</p>
+      <p><a href="https://www.amazon.com/Ugly-Love-Novel-Colleen-Hoover/dp/1476753180/ref=zg_bsar_books_sccl_7/132-5755952-1415038?psc=1">Ugly Love</a></p>
+</td>
+<td><b> #8 </b> </p>
+   <img src="https://m.media-amazon.com/images/I/71ZvnK+4JiL.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+      <br>
+     <p>Taylor Jenkins Reid</p>
+      <p><a href="https://www.amazon.com/Seven-Husbands-Evelyn-Hugo-Novel/dp/1501161938/ref=zg_bsar_books_sccl_8/132-5755952-1415038?psc=1">Seven Husbands of Evelyn Hugo</a></p>
+</td>
+</tr>
+<td><b> #9 </b> </p>
+   <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594559067i/18693771.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+      <br>
+     <p>Bessel van der Kolk M.D.</p>
+      <p><a href="https://www.amazon.com/Body-Keeps-Score-Healing-Trauma/dp/0143127748/ref=zg_bsar_books_sccl_9/132-5755952-1415038?psc=1">The body keeps the score</a></p>
+</td>
+<td><b> #10 </b> </p>
+   <img src="https://m.media-amazon.com/images/I/91gihQh4OCS.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+      <br>
+     <p></p>
+      <p><a href="https://www.amazon.com/Very-Hungry-Caterpillar-Eric-Carle/dp/0399226907/ref=zg_bsar_books_sccl_10/132-5755952-1415038?psc=1">The Very Hungry Caterpillar</a></p>
+</td>
+
+  </tr>
+</table>
+</center>
+
+</body>
+</html>
+
