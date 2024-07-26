@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+background-image: linear-gradient(lavender,lightblue,lightpink);}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px ;
+  text-align: left;
+  padding: 8px;
+}
+</style>
+</head>
+<body>
+
+<h2><i>FANTASY</i></h2>
+
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td> <p> <b> 1 </b> </p>
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633097753l/40132775._SY475_.jpg" alt="HTML5 Icon" style="width:150px;height:150px;">
+    <p>House of Sky and Breath<br>
+(Crescent City #2)</p>
+<p>by Sarah J. Maas</p>
+ </td>
+    <td> <p> <b> 2 </b> </p>
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647789287l/60177373.jpg" alt="HTML5 Icon" style="width:150px;height:150px;">
+    <p>Fairy Tale</p>
+<p>by Stephen King</p>
+ </td>
+    <td> <p> <b> 3 </b> </p>
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654481631l/59807955.jpg" alt="HTML5 Icon" style="width:150px;height:150px;">
+    <p>The Atlas Six
+(The Atlas #1)</p>
+<p>by Olivie Blake</p>
+ </td>
+<td> <p> <b> 4</b> </p>
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1635175424l/58547540.jpg" alt="HTML5 Icon" style="width:150px;height:150px;">
+    <p>The War of Two Queens<br>
+(Blood and Ash #4)</p>
+<p>by Jennifer L. Armentrout</p>
+ </td>
+</tr>
+<tr>
+<td> <p> <b> 5</b> </p>
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643062993l/60018635.jpg" alt="HTML5 Icon" style="width:150px;height:150px;">
+    <p>The Very Secret Society <br>of Irregular Witches</p>
+<p>by Sangu Mandanna</p>
+ </td>
+<td> <p> <b> 6</b> </p>
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650240624l/58725016.jpg" alt="HTML5 Icon" style="width:150px;height:150px;">
+    <p>Elektra</p>
+<p>by Jennifer Saint </p>
+ </td>
+<td> <p> <b> 7</b> </p>
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671146784l/57127277._SY475_.jpg" alt="HTML5 Icon" style="width:150px;height:150px;">
+    <p>Kaikeyi</p>
+<p>by Vaishnavi Patel</p>
+ </td>
+<td> <p> <b> 8</b> </p>
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634139994l/58724745.jpg" alt="HTML5 Icon" style="width:150px;height:150px;">
+    <p>The Book Eaters</p>
+<p>by Sunyi Dean </p>
+ </td>
+</tr>
+<tr>
+<td> <p> <b> 9</b> </p>
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636583955l/58783802.jpg" alt="HTML5 Icon" style="width:150px;height:150px;">
+    <p>When Women Were Dragons</p>
+<p>by Kelly Barnhill </p>
+ </td>
+<td> <p> <b> 10</b> </p>
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636396304l/58950705.jpg" alt="HTML5 Icon" style="width:150px;height:150px;">
+    <p>The Stardust Thief</p>
+<p>by Chelsea Abdullah</p>
+ </td>
+<td> <p> <b> 11</b> </p>
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658241430l/60018639.jpg" alt="HTML5 Icon" style="width:150px;height:150px;">
+    <p>Thistlefoot</p>
+<p>by GennaRose Nethercott </p>
+ </td>
+<td> <p> <b> 12</b> </p>
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628605286l/58132544.jpg" alt="HTML5 Icon" style="width:150px;height:150px;">
+    <p>A River Enchanted</p>
+<p>by Rebecca Ross </p>
+ </td>
+
+</tr>
+
+
+    
+</table>
+
+</body>
+</html>
