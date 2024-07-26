@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+background-image: linear-gradient(lavender,lightblue,lightpink);}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px ;
+  text-align: left;
+  padding: 8px;
+}
+</style>
+</head>
+<body>
+
+<h2><i>FICTION BOOKS</i></h2>
+
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td> <p> <b> 1 </b> </p>
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636978687l/58784475.jpg" alt="HTML5 Icon"style="width:150px;height:150px;">
+    <p>Tomorrow, and Tomorrow, and Tomorrow</p>
+<p>by Gabrielle Zevin</p>
+ </td>
+    <td> <p> <b> 2 </b> </p>
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1635240584l/57701764.jpg" alt="HTML5 Icon" style="width:150px;height:150px;">
+    <p>Wish You Were Here</p>
+<p>by Jodi Picoult</p>
+ </td>
+    <td> <p> <b> 3 </b> </p>
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663514088l/60209470.jpg" alt="HTML5 Icon" style="width:150px;height:150px;">
+    <p>The Winners
+(Beartown #3)</p>
+<p>by Fredrik Backman </p>
+ </td>
+<td> <p> <b> 4</b> </p>
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1651600548l/58733693._SY475_.jpg" alt="HTML5 Icon" style="width:150px;height:150px;">
+    <p>Remarkably Bright Creatures</p>
+<p>by Shelby Van Pelt</p>
+ </td>
+</tr>
+<tr>
+<td> <p> <b> 5</b> </p>
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634954735l/59227941.jpg" alt="HTML5 Icon" style="width:150px;height:150px;">
+    <p>The Hotel Nantucket</p>
+<p>by Elin Hilderbrand </p>
+ </td>
+<td> <p> <b> 6</b> </p>
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664802258l/60149573._SY475_.jpg" alt="HTML5 Icon" style="width:150px;height:150px;">
+    <p>Our Missing Hearts</p>
+<p>by Celeste Ng</p>
+ </td>
+<td> <p> <b> 7</b> </p>
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621624081l/57693262.jpg" alt="HTML5 Icon" style="width:150px;height:150px;">
+    <p>Cleopatra and Frankenstein</p>
+<p>by Coco Mellors</p>
+ </td>
+<td> <p> <b> 8</b> </p>
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628100349l/57739876.jpg" alt="HTML5 Icon" style="width:150px;height:150px;">
+    <p>To Paradise</p>
+<p>by Hanya Yanagihara</p>
+ </td>
+</tr>
+<tr>
+<td> <p> <b> 9</b> </p>
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631888297l/57773248.jpg" alt="HTML5 Icon" style="width:150px;height:150px;">
+    <p>Notes on an Execution</p>
+<p>by Danya Kukafka</p>
+ </td>
+<td> <p> <b> 10</b> </p>
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1642705453l/59912428.jpg" alt="HTML5 Icon" style="width:150px;height:150px;">
+    <p>Mad Honey</p>
+<p>by Jodi Picoult </p>
+ </td>
+<td> <p> <b> 11</b> </p>
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1660050779l/60194162.jpg" alt="HTML5 Icon" style="width:150px;height:150px;">
+<p>by Barbara Kingsolver </p>
+ </td>
+<td> <p> <b> 12</b> </p>
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640084756l/56271394._SY475_.jpg" alt="HTML5 Icon" style="width:150px;height:150px;">
+    <p>Honor</p>
+<p>by Thrity Umrigar</p>
+ </td>
+
+</tr>
+
+
+    
+</table>
+
+</body>
+</html>
+
