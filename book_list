@@ -1,0 +1,123 @@
+<html>
+<head>
+<style>
+body {
+background-image: linear-gradient(lavender,lightblue,lightpink);}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 2px  ;
+  text-align: left;
+  padding: 8px;
+}
+
+</style>
+</head>
+<body>
+<!--This example uses the default bootstrap stylesheet-->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+         integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<!--provides a full-width container that can expand or collapse based on the size of viewport-->
+<div class="container-fluid">
+   <div class="row">
+       <div class="col-md-2 col-sm-12 col-xs-12">
+           <nav id="navbar">
+               <h3>BOOK LIST</h3>
+               <!--content stacking for smaller screens-->
+               <ul class="nav nav-pills nav-stacked">
+                <!--internal linking to the respective sections-->
+                   <a class="nav-link" href="#Introduction" rel="internal">
+                       <li>SELECT A GENRE</li>
+<p>
+Tell us about the genre you enjoy the most and get amazing suggesstions!!
+</p>
+                   </a>
+          
+                </ul>
+           </nav>
+       </div>
+       <div class="col-md-10 col-sm-12 col-xs-12">
+           <main id="main-doc">
+               <section class="main-section" id="Introduction" >
+                <!--basic styling for the headings, better practice to do the same in a css file as the styling is same for all headers-->
+                   <h3 style = "background: white; color: black">Categories</h3>
+                   <article>
+                   <p>Click on any genre to read more about it
+                       </article>
+               </section>
+</div>
+</p>
+<h2>Read on!!!</h2>
+
+<table style="width:50%" >
+  <tr>
+    <th>GENRE</th>
+    <th>GENRE</th>
+   <th>GENRE</th>
+     <th>GENRE</th>
+  </tr>
+  <tr>
+    <td><p><a href="file:///D:/WT%20mini%20project/Mystery%20&%20Thriller.html">Mystery & Thriller</a></p>
+     <img src="https://m.media-amazon.com/images/I/7182LFMSWDL.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+    </td>
+   <td><a href="file:///D:/WT%20mini%20project/nonFiction.html">Non-Fiction</a></p>
+    <img src="https://m.media-amazon.com/images/I/91rfx6oIKrL.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+   </td>
+      <td><a href="file:///D:/WT%20mini%20project/Fantasy.html">Fantasy</a></p>
+       <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633097753i/40132775._UY872_SS872_.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+      </td>
+     <td><p><a href="file:///D:/WT%20mini%20project/fiction.html">Fiction</a></p>
+       <img src="https://m.media-amazon.com/images/I/411-IwYbacL._SX327_BO1,204,203,200_.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+      </td>
+  </tr>
+  <tr>
+    <td>Autobiography & memoir 
+     <img src="https://m.media-amazon.com/images/I/81kSOkmic+L.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+    </td>
+    <td>History & Biography 
+     <img src="https://m.media-amazon.com/images/I/91uVB3GqZNL.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+    </td>
+    <td>Graphic novels and comics
+      <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640745736l/56060300.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+    </td>
+ <td>Science Fiction
+   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1626710416l/58446227.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+  </td>
+  </tr>
+<tr>
+     <td>Young Adult Fiction 
+     <img src="https://m.media-amazon.com/images/I/51cu6sxo9NL._SX331_BO1,204,203,200_.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+     </td>
+    <td>Young Adult Fantasy 
+       <img src="https://m.media-amazon.com/images/I/91UzuXURlzL.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+    </td>
+    <td>Historical Fiction
+       <img src="https://m.media-amazon.com/images/I/A1CA4NxU9SL.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+     </td>
+    <td><p><a href="file:///D:/WT%20mini%20project/Romance.html">Romance</a></p>
+          <img src="https://m.media-amazon.com/images/I/71tP2vAr70L.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+   </td>
+  </tr>
+<tr>
+      <td>Humor 
+    <img src="https://m.media-amazon.com/images/I/71JzS4kOqnL.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+    </td>
+     <td>Debut novels 
+       <img src="https://m.media-amazon.com/images/I/712ndaJmndL.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+     </td>
+     <td>Horror
+       <img src="https://m.media-amazon.com/images/I/91puw8POkwL.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+     </td>
+      <td> Poetry
+        <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627672473l/56805404.jpg" alt="HTML5 Icon" style="width:120px;height:120px;">
+      </td>
+  </tr>
+
+
+</table>
+</body>
+</html>
